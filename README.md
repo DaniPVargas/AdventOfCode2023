@@ -4,18 +4,18 @@ This repository contains the solutions developed for the Advent of Code contest 
 
 |        |          Problem 1          |          Problem 2          |
 |:------:|:---------------------------:|:---------------------------:|
-|  Day 1 | [Solución](Day1/problem1.py) | [Solución](Day1/problem2.py) |
-|  Day 2 | [Solución](Day2/problem1.py) | [Solución](Day2/problem2.py) |
-|  Day 3 | [Solución](Day3/problem1.py) | [Solución](Day3/problem2.py) |
-|  Day 4 | [Solución](Day4/problem1.py) | [Solución](Day4/problem2.py) |
-|  Day 5 | [Solución](Day5/problem1.py) | [Solución](Day5/problem2.py) |
-|  Day 6 | [Solución](Day6/problem1.py) | [Solución](Day6/problem2.py) |
-|  Day 7 | [Solución](Day7/problem1.py) | [Solución](Day7/problem2.py) |
-|  Day 8 | [Solución](Day8/problem1.py) | [Solución](Day8/problem2.py) |
-|  Day 9 | [Solución](Day9/problem1.py) | [Solución](Day9/problem2.py) |
-| Day 10 | [Solución](Day10/problem1.py) | [Solución](Day10/problem2.py) |
-| Day 11 | [Solución](Day11/problem1.py) | [Solución](Day11/problem2.py) |
-| Day 12 | [Solución](Day12/problem1.py) | - |
-| Day 13 | [Solución](Day13/problem1.py) | [Solución](Day13/problem2.py) |
-| Day 14 | [Solución](Day14/problem1.py) | [Solución](Day14/problem2.py) |
-| Day 15 | [Solución](Day15/problem1.py) | [Solución](Day15/problem2.py) |
+|  Day 1 | [Solution](Day1/problem1.py) | [Solution](Day1/problem2.py) |
+|  Day 2 | [Solution](Day2/problem1.py) | [Solution](Day2/problem2.py) |
+|  Day 3 | [Solution](Day3/problem1.py) | [Solution](Day3/problem2.py) |
+|  Day 4 | [Solution](Day4/problem1.py) | [Solution](Day4/problem2.py) |
+|  Day 5 | [Solution](Day5/problem1.py) | [Solution](Day5/problem2.py) |
+|  Day 6 | [Solution](Day6/problem1.py) | [Solution](Day6/problem1.py) |
+|  Day 7 | [Solution](Day7/problem1.py) | [Solution](Day7/problem1.py) |
+|  Day 8 | [Solution](Day8/problem1.py) | [Solution](Day8/problem2.py) |
+|  Day 9 | [Solution](Day9/problem1.py) | [Solution](Day9/problem2.py) |
+| Day 10 | [Solution](Day10/problem1.py) | [Solution](Day10/problem1.py) |
+| Day 11 | [Solution](Day11/problem1.py) | [Solution](Day11/problem2.py) |
+| Day 12 | [Solution](Day12/problem.py) | - |
+| Day 13 | [Solution](Day13/problem1.py) | [Solution](Day13/problem2.py) |
+| Day 14 | [Solution](Day14/problem.py) | [Solution](Day14/problem2.py) |
+| Day 15 | [Solution](Day15/problem1.py) | [Solution](Day15/problem2.py) |
